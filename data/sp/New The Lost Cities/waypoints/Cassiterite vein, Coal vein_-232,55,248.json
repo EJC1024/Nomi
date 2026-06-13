@@ -1,0 +1,18 @@
+{
+  "id": "Cassiterite vein, Coal vein_-232,55,248",
+  "name": "Cassiterite vein, Coal vein",
+  "icon": "waypoint-normal.png",
+  "x": -232,
+  "y": 55,
+  "z": 248,
+  "r": 220,
+  "g": 220,
+  "b": 220,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

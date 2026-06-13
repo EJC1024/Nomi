@@ -1,0 +1,18 @@
+{
+  "id": "Chalcopyrite Ore_-264,45,200",
+  "name": "Chalcopyrite Ore",
+  "icon": "waypoint-normal.png",
+  "x": -264,
+  "y": 45,
+  "z": 200,
+  "r": 160,
+  "g": 120,
+  "b": 40,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

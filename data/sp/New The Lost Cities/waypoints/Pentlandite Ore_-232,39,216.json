@@ -1,0 +1,18 @@
+{
+  "id": "Pentlandite Ore_-232,39,216",
+  "name": "Pentlandite Ore",
+  "icon": "waypoint-normal.png",
+  "x": -232,
+  "y": 39,
+  "z": 216,
+  "r": 165,
+  "g": 150,
+  "b": 5,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
